@@ -1,6 +1,5 @@
 # 🚀 Ankur Gupta - Developer Portfolio
 
-![Portfolio Screenshot](https://images.pexels.com/photos/4162449/pexels-photo-4162449.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 > A modern, responsive, and animated developer portfolio to showcase my skills, projects, and contact information — built with ❤️ and React.
 
