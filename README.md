@@ -4,7 +4,6 @@
 
 > A modern, responsive, and animated developer portfolio to showcase my skills, projects, and contact information — built with ❤️ and React.
 
-🔗 **Live Site**: [ankur-portfolio-six.vercel.app](https://ankur-portfolio-six.vercel.app/)
 
 ---
 
@@ -70,7 +69,7 @@ emailjs.send(
   import.meta.env.VITE_EMAILJS_PUBLIC_KEY!
 );
 Make sure to configure your own EmailJS template and environment variables.
-
+```
 🖼️ Projects Showcase
 Each project card includes:
 
