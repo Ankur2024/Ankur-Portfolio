@@ -69,20 +69,6 @@ emailjs.send(
 );
 Make sure to configure your own EmailJS template and environment variables.
 ```
-🖼️ Projects Showcase
-Each project card includes:
-
-Project name and description
-
-Technologies used
-
-GitHub link
-
-Demo (if available)
-
-Status (Completed / In Progress)
-
-You can customize these in src/data/projects.ts.
 
 🌓 Theme Support
 This site supports light and dark modes, and automatically adapts based on the user's system preference using Tailwind's dark: classes.
